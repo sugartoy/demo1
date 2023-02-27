@@ -1,0 +1,12 @@
+-f https://download.pytorch.org/whl/cu111/torch_stable.html
+torch==1.10.2+cu111
+transformers
+sentencepiece
+streamlit
+voila
+flask
+numpy
+pandas
+pillow
+opencv-python-headless
+easyocr
